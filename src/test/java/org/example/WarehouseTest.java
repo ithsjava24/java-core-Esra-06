@@ -73,6 +73,7 @@ class WarehouseTest {
             warehouse = Warehouse.getInstance();
         }
 
+
         @Test
         @DisplayName("is empty")
         void isEmpty() {
